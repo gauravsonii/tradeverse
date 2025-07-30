@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ASSET/TV BLACK LOGO.jpg" width="200" alt="TradeVerse Logo"/>
+  <img src="./ASSETS/TV BLACK LOGO.jpg" width="200" alt="TradeVerse Logo"/>
 </p>
 
 <h1 align="center">🌀 TradeVerse</h1>
